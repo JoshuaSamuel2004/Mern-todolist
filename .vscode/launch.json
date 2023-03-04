@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://mongoose.connect(\"mongodb+srv://todo-list:#Joshua18@cluster0.7fndgby.mongodb.net/?retryWrites=true&w=majority\",{",
+            "request": "launch",
+            "url": "http://mongoose.connect(\"mongodb+srv://todo-list:#Joshua18@cluster0.7fndgby.mongodb.net/?retryWrites=true&w=majority\",{"
+        }
+    ]
+}
